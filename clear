@@ -1,0 +1,55 @@
+[33mcommit e454d868ec4a88edf3db4b536a8af483d76bb60a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: amiro <amir.maleki33@yahoo.com>
+Date:   Sat Jun 24 01:01:51 2023 +0330
+
+    a.txt added
+
+ a.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit dfca60d57e23e7bb496029f10be2565631d0ab39[m
+Author: amiro <amir.maleki33@yahoo.com>
+Date:   Sat Jun 24 01:00:34 2023 +0330
+
+    changed b.txt
+
+ b.txt | 1 [32m+[m
+ c.py  | 0
+ 2 files changed, 1 insertion(+)
+
+[33mcommit fe73ead51356e9e81d9588997ad4c51d7c609b5d[m
+Author: amiro <amir.maleki33@yahoo.com>
+Date:   Sat Jun 24 00:33:35 2023 +0330
+
+    c.py add shod
+
+ c.py | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 966a03a2313dab72f6f53a14c48d3f2821c2d6fd[m
+Author: amiro <amir.maleki33@yahoo.com>
+Date:   Sat Jun 24 00:31:48 2023 +0330
+
+    a and b has no value
+
+ a.txt | 1 [31m-[m
+ 1 file changed, 1 deletion(-)
+
+[33mcommit a8379b2eea55b402c52c400b305890c6da51f2b1[m
+Author: amiro <amir.maleki33@yahoo.com>
+Date:   Fri Jun 23 18:20:39 2023 +0330
+
+    changed a.txt , add b.txt
+
+ a.txt | 1 [32m+[m
+ b.txt | 0
+ 2 files changed, 1 insertion(+)
+
+[33mcommit 648b0f6683057037b3335f09e5cb217e51503b3d[m
+Author: amiro <amir.maleki33@yahoo.com>
+Date:   Fri Jun 23 17:41:21 2023 +0330
+
+    add file a.txt
+
+ a.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
